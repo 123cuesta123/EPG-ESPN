@@ -1,0 +1,32 @@
+name: Actualizar EPG ESPN Diariamente
+
+on:
+  schedule:
+    - cron: '0 9,21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generar guía EPG ESPN (epg_espn.xml)
+        run: python generar_epg_espn.py
+
+      - name: Guardar y publicar EPG actualizado en GitHub
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add epg_espn.xml epg_espn.xml.gz epg.xml
+          git diff --staged --quiet || git commit -m "Auto-update EPG ESPN: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

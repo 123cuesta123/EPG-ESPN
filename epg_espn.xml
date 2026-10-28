@@ -186,20 +186,35 @@
     <desc lang="es">Vive las emociones de los partidos de la Serie Mundial de la MLB, evento final de postemporada donde participan los campeones de las ligas Nacional y Americana.</desc>
     <category lang="es">Serie Mundial de la MLB</category>
   </programme>
-  <programme start="20261026220000 -0500" stop="20261027000000 -0500" channel="espn-lat.tv">
-    <title lang="es">A confirmar</title>
-    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
-    <category lang="es">A confirmar</category>
+  <programme start="20261026220000 -0500" stop="20261026230000 -0500" channel="espn-lat.tv">
+    <title lang="es">Goles de la Ligue 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
+    <category lang="es">Goles de la Ligue 1</category>
+  </programme>
+  <programme start="20261026230000 -0500" stop="20261027000000 -0500" channel="espn-lat.tv">
+    <title lang="es">Compacto - Serie A</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Compacto - Serie A</category>
   </programme>
   <programme start="20261027000000 -0500" stop="20261027020000 -0500" channel="espn-lat.tv">
     <title lang="es">ESPN F90</title>
     <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos.</desc>
     <category lang="es">ESPN F90</category>
   </programme>
-  <programme start="20261027020000 -0500" stop="20261027060000 -0500" channel="espn-lat.tv">
-    <title lang="es">A confirmar</title>
-    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
-    <category lang="es">A confirmar</category>
+  <programme start="20261027020000 -0500" stop="20261027030000 -0500" channel="espn-lat.tv">
+    <title lang="es">Goles de la Ligue 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
+    <category lang="es">Goles de la Ligue 1</category>
+  </programme>
+  <programme start="20261027030000 -0500" stop="20261027050000 -0500" channel="espn-lat.tv">
+    <title lang="es">Compacto - Serie A</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Compacto - Serie A</category>
+  </programme>
+  <programme start="20261027050000 -0500" stop="20261027060000 -0500" channel="espn-lat.tv">
+    <title lang="es">Compacto - Bundesliga</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 64º edición de la Bundesliga, donde compiten los equipos de primera división del fútbol alemán.</desc>
+    <category lang="es">Compacto - Bundesliga</category>
   </programme>
   <programme start="20261027060000 -0500" stop="20261027080000 -0500" channel="espn-lat.tv">
     <title lang="es">ESPN F90</title>
@@ -406,25 +421,165 @@
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
-  <programme start="20261026183000 -0500" stop="20261026203000 -0500" channel="espn3-lat.tv">
+  <programme start="20261026183000 -0500" stop="20261026231500 -0500" channel="espn3-lat.tv">
     <title lang="es">ESPN 3</title>
     <desc lang="es" />
     <category lang="es">ESPN 3</category>
   </programme>
-  <programme start="20261027063000 -0500" stop="20261027083000 -0500" channel="espn3-lat.tv">
+  <programme start="20261026231500 -0500" stop="20261027001500 -0500" channel="espn3-lat.tv">
+    <title lang="es">Goles de la Ligue 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
+    <category lang="es">Goles de la Ligue 1</category>
+  </programme>
+  <programme start="20261027001500 -0500" stop="20261027023000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Dalton Smith vs. Alberto Puello</title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
+    <category lang="es">ESPN Knockout</category>
+  </programme>
+  <programme start="20261027023000 -0500" stop="20261027033000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Inter vs. Fiorentina</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 8, Stadio Giuseppe Meazza</category>
+  </programme>
+  <programme start="20261027033000 -0500" stop="20261027040000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Aguas arriba</title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
+    <category lang="es">Aguas arriba</category>
+  </programme>
+  <programme start="20261027040000 -0500" stop="20261027050000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Manchester Utd. vs. Bournemouth</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 35º edición de la Premier League, la máxima competición de fútbol en Inglaterra con un total de veinte equipos participan en la competición.</desc>
+    <category lang="es">Fecha 8, Old Trafford</category>
+  </programme>
+  <programme start="20261027050000 -0500" stop="20261027060000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Goles de la Serie A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
+    <category lang="es">Goles de la Serie A</category>
+  </programme>
+  <programme start="20261027060000 -0500" stop="20261027080000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Rayo Vallecano vs. Elche</title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <category lang="es">Fecha 10, Estadio de Vallecas</category>
+  </programme>
+  <programme start="20261027080000 -0500" stop="20261027100000 -0500" channel="espn3-lat.tv">
+    <title lang="es">R. Racing Club vs. Espanyol</title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <category lang="es">Fecha 10, El Sardinero</category>
+  </programme>
+  <programme start="20261027100000 -0500" stop="20261027110000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Inter vs. Fiorentina</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 8, Stadio Giuseppe Meazza</category>
+  </programme>
+  <programme start="20261027110000 -0500" stop="20261027130000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Vannes vs. Clermont</title>
+    <desc lang="es">Vive las emociones de los partidos de la 128º edición del Top 14, el campeonato francés de Rugby Union, donde se enfrentan los catorce mejores equipos de Francia.</desc>
+    <category lang="es">Fecha 7, Stade de la Rabine</category>
+  </programme>
+  <programme start="20261027130000 -0500" stop="20261027150000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Gran Premio de los Estados Unidos, Circuito de las Américas</title>
+    <desc lang="es">Vive las emociones y toda la adrenalina de las carreras de la 77º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
+    <category lang="es">Fórmula 1</category>
+  </programme>
+  <programme start="20261027150000 -0500" stop="20261027170000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Emanuel Navarrete vs. O'Shaquie Foster</title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
+    <category lang="es">ESPN Knockout</category>
+  </programme>
+  <programme start="20261027170000 -0500" stop="20261027183000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Sassuolo vs. Lazio</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 9, Mapei Stadium – Città del Tricolore</category>
+  </programme>
+  <programme start="20261027183000 -0500" stop="20261027190000 -0500" channel="espn3-lat.tv">
     <title lang="es">ESPN 3</title>
     <desc lang="es" />
     <category lang="es">ESPN 3</category>
   </programme>
-  <programme start="20261027183000 -0500" stop="20261027203000 -0500" channel="espn3-lat.tv">
-    <title lang="es">ESPN 3</title>
-    <desc lang="es" />
-    <category lang="es">ESPN 3</category>
+  <programme start="20261027190000 -0500" stop="20261027213000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Boston Bruins vs. Carolina Hurricanes</title>
+    <desc lang="es">Vive los partidos de la 110º temporada de la liga profesional norteamericana de hockey sobre hielo, formada por clubes de Estados Unidos y Canadá.</desc>
+    <category lang="es">Lenovo Center, Raleigh, NC, USA</category>
   </programme>
-  <programme start="20261028183000 -0500" stop="20261028203000 -0500" channel="espn3-lat.tv">
-    <title lang="es">ESPN 3</title>
-    <desc lang="es" />
-    <category lang="es">ESPN 3</category>
+  <programme start="20261027213000 -0500" stop="20261028000000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Sevilla vs. Osasuna</title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <category lang="es">Fecha 10, Estadio Ramón Sánchez-Pizjuán</category>
+  </programme>
+  <programme start="20261028000000 -0500" stop="20261028020000 -0500" channel="espn3-lat.tv">
+    <title lang="es">PSV vs. Feyenoord</title>
+    <desc lang="es">Vive las emociones de los partidos de la 71º edición de la Eredivisie, la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia.</desc>
+    <category lang="es">Fecha 10, Philips Stadion</category>
+  </programme>
+  <programme start="20261028020000 -0500" stop="20261028040000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Fleetwood vs. Arsenal</title>
+    <desc lang="es">Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.</desc>
+    <category lang="es">Octavos de final, Highbury Stadium</category>
+  </programme>
+  <programme start="20261028040000 -0500" stop="20261028060000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Goles de la Serie A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
+    <category lang="es">Goles de la Serie A</category>
+  </programme>
+  <programme start="20261028060000 -0500" stop="20261028080000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Arsenal vs. Everton</title>
+    <desc lang="es">Vive los partidos de la 35º edición de la Premier League, la máxima competición de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+    <category lang="es">Fecha 8, Emirates Stadium</category>
+  </programme>
+  <programme start="20261028080000 -0500" stop="20261028100000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Como vs. Sassuolo</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 8, Stadio Giuseppe Sinigaglia</category>
+  </programme>
+  <programme start="20261028100000 -0500" stop="20261028120000 -0500" channel="espn3-lat.tv">
+    <title lang="es">PSV vs. Feyenoord</title>
+    <desc lang="es">Vive las emociones de los partidos de la 71º edición de la Eredivisie, la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia.</desc>
+    <category lang="es">Fecha 10, Philips Stadion</category>
+  </programme>
+  <programme start="20261028120000 -0500" stop="20261028140000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Rayo Vallecano vs. Elche</title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <category lang="es">Fecha 10, Estadio de Vallecas</category>
+  </programme>
+  <programme start="20261028140000 -0500" stop="20261028173000 -0500" channel="espn3-lat.tv">
+    <title lang="es">A confirmar</title>
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <category lang="es">A confirmar</category>
+  </programme>
+  <programme start="20261028173000 -0500" stop="20261028180000 -0500" channel="espn3-lat.tv">
+    <title lang="es">NBA esta noche</title>
+    <desc lang="es">Durante las noches es el momento ideal para disfrutar de un encuentro de la NBA. Una manera de sumergirse en el planeta de los gigantes a través de esta emocionante transmisión que te llevará cada punto y cada jugada.</desc>
+    <category lang="es">NBA esta noche</category>
+  </programme>
+  <programme start="20261028180000 -0500" stop="20261028203000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Philadelphia 76ers vs. Indiana Pacers</title>
+    <desc lang="es">Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
+    <category lang="es">Temporada regular, Gainbridge Fieldhouse</category>
+  </programme>
+  <programme start="20261028203000 -0500" stop="20261028230000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Oklahoma City Thunder vs. Dallas Mavericks</title>
+    <desc lang="es">Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
+    <category lang="es">Temporada regular, American Airlines Center</category>
+  </programme>
+  <programme start="20261028230000 -0500" stop="20261029000000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Goles de la Eredivisie</title>
+    <desc lang="es">Los goles del fútbol holandés.</desc>
+    <category lang="es">Goles de la Eredivisie</category>
+  </programme>
+  <programme start="20261029000000 -0500" stop="20261029020000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Milan vs. Bologna</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 9, San Siro/Giuseppe Meazza</category>
+  </programme>
+  <programme start="20261029020000 -0500" stop="20261029040000 -0500" channel="espn3-lat.tv">
+    <title lang="es">PSV vs. Feyenoord</title>
+    <desc lang="es">Vive las emociones de los partidos de la 71º edición de la Eredivisie, la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia.</desc>
+    <category lang="es">Fecha 10, Philips Stadion</category>
+  </programme>
+  <programme start="20261029040000 -0500" stop="20261029060000 -0500" channel="espn3-lat.tv">
+    <title lang="es">Inter vs. Fiorentina</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 8, San Siro/Giuseppe Meazza</category>
   </programme>
   <programme start="20261026000000 -0500" stop="20261026030000 -0500" channel="espn4-lat.tv">
     <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>
@@ -1388,12 +1543,12 @@
   </programme>
   <programme start="20261026060000 -0500" stop="20261026070000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026070000 -0500" stop="20261026080000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026080000 -0500" stop="20261026100000 -0500" channel="espn-mx.tv">
@@ -1433,7 +1588,7 @@
   </programme>
   <programme start="20261026211500 -0500" stop="20261026220000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026220000 -0500" stop="20261026230000 -0500" channel="espn-mx.tv">
@@ -1443,7 +1598,7 @@
   </programme>
   <programme start="20261026230000 -0500" stop="20261027000000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261027000000 -0500" stop="20261027010000 -0500" channel="espn-mx.tv">
@@ -1458,7 +1613,7 @@
   </programme>
   <programme start="20261027020000 -0500" stop="20261027030000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261027030000 -0500" stop="20261027050000 -0500" channel="espn-mx.tv">
@@ -1468,7 +1623,7 @@
   </programme>
   <programme start="20261027050000 -0500" stop="20261027060000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261027060000 -0500" stop="20261027070000 -0500" channel="espn-mx.tv">
@@ -1543,12 +1698,12 @@
   </programme>
   <programme start="20261026080000 -0500" stop="20261026090000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026090000 -0500" stop="20261026100000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026100000 -0500" stop="20261026120000 -0500" channel="espn2-mx.tv">
@@ -1558,7 +1713,7 @@
   </programme>
   <programme start="20261026120000 -0500" stop="20261026130000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026130000 -0500" stop="20261026140000 -0500" channel="espn2-mx.tv">
@@ -1583,7 +1738,7 @@
   </programme>
   <programme start="20261026170000 -0500" stop="20261026173000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026173000 -0500" stop="20261026180000 -0500" channel="espn2-mx.tv">
@@ -1598,12 +1753,12 @@
   </programme>
   <programme start="20261026210000 -0500" stop="20261026220000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026220000 -0500" stop="20261026230000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026230000 -0500" stop="20261027000000 -0500" channel="espn2-mx.tv">
@@ -1613,12 +1768,12 @@
   </programme>
   <programme start="20261027000000 -0500" stop="20261027010000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261027010000 -0500" stop="20261027020000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261027020000 -0500" stop="20261027030000 -0500" channel="espn2-mx.tv">
@@ -1628,7 +1783,7 @@
   </programme>
   <programme start="20261027030000 -0500" stop="20261027040000 -0500" channel="espn2-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261027040000 -0500" stop="20261027050000 -0500" channel="espn2-mx.tv">
@@ -1711,6 +1866,111 @@
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
+  <programme start="20261028060000 -0500" stop="20261028070000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Fútbol picante</title>
+    <desc lang="es">Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano.</desc>
+    <category lang="es">Fútbol picante</category>
+  </programme>
+  <programme start="20261028070000 -0500" stop="20261028080000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Fútbol picante</title>
+    <desc lang="es">Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano.</desc>
+    <category lang="es">Fútbol picante</category>
+  </programme>
+  <programme start="20261028080000 -0500" stop="20261028090000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028090000 -0500" stop="20261028100000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028100000 -0500" stop="20261028120000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Borussia Dortmund vs. Werder Bremen</title>
+    <desc lang="es">Vive las emociones de los partidos de la 84º edición de la Copa de Alemania, organizada por la Federación Alemana de Fútbol.</desc>
+    <category lang="es">16vos de final, Signal Iduna Park</category>
+  </programme>
+  <programme start="20261028120000 -0500" stop="20261028130000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028130000 -0500" stop="20261028135000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Fútbol picante</title>
+    <desc lang="es">Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano.</desc>
+    <category lang="es">Fútbol picante</category>
+  </programme>
+  <programme start="20261028135000 -0500" stop="20261028160000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Liverpool vs. Chelsea</title>
+    <desc lang="es">Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.</desc>
+    <category lang="es">Octavos de final, Anfield</category>
+  </programme>
+  <programme start="20261028160000 -0500" stop="20261028170000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Generación fútbol</title>
+    <desc lang="es">El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas.</desc>
+    <category lang="es">Generación fútbol</category>
+  </programme>
+  <programme start="20261028170000 -0500" stop="20261028173000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028173000 -0500" stop="20261028180000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Béisbol esta noche</title>
+    <desc lang="es">"Béisbol esta noche" ofrece a los amantes de este deporte las mejores jugadas, reportajes, invitados especiales y entrevistas.</desc>
+    <category lang="es">Béisbol esta noche</category>
+  </programme>
+  <programme start="20261028180000 -0500" stop="20261028210000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>
+    <desc lang="es">Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.</desc>
+    <category lang="es">Serie Mundial, Tropicana Field</category>
+  </programme>
+  <programme start="20261028210000 -0500" stop="20261028220000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028220000 -0500" stop="20261028230000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028230000 -0500" stop="20261029000000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Fútbol picante</title>
+    <desc lang="es">Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano.</desc>
+    <category lang="es">Fútbol picante</category>
+  </programme>
+  <programme start="20261029000000 -0500" stop="20261029010000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029010000 -0500" stop="20261029020000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029020000 -0500" stop="20261029030000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Fútbol picante</title>
+    <desc lang="es">Fútbol Picante es un programa dinámico con todos los goles, la información y el análisis de los expertos de ESPN sobre el fútbol mexicano.</desc>
+    <category lang="es">Fútbol picante</category>
+  </programme>
+  <programme start="20261029030000 -0500" stop="20261029040000 -0500" channel="espn2-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029040000 -0500" stop="20261029050000 -0500" channel="espn2-mx.tv">
+    <title lang="es">ESPN Enfocados</title>
+    <desc lang="es">Vive el análisis más detallado del fútbol y otros deportes, con expertos que desglosan tácticas, rendimiento y actualidad de jugadores y equipos. No te pierdas las entrevistas exclusivas y debates a fondo sobre lo mejor del deporte.</desc>
+    <category lang="es">ESPN Enfocados</category>
+  </programme>
+  <programme start="20261029050000 -0500" stop="20261029070000 -0500" channel="espn2-mx.tv">
+    <title lang="es">Generación fútbol</title>
+    <desc lang="es">El show donde las personalidades fuertes y el carácter único serán los protagonistas de las noticias deportivas.</desc>
+    <category lang="es">Generación fútbol</category>
+  </programme>
   <programme start="20261026060000 -0500" stop="20261026080000 -0500" channel="espn3-mx.tv">
     <title lang="es">Get Up!</title>
     <desc lang="es">Un segmento matutino presentado por Mike Greenberg junto a Jalen Rose y Michelle Beadle, quienes reciben a un invitado y presentan noticias, opiniones y análisis de los anfitriones y del mundo del deporte.</desc>
@@ -1743,7 +2003,7 @@
   </programme>
   <programme start="20261026200000 -0500" stop="20261026220000 -0500" channel="espn3-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026220000 -0500" stop="20261027000000 -0500" channel="espn3-mx.tv">
@@ -1752,9 +2012,9 @@
     <category lang="es">Fecha 9, Rams Park</category>
   </programme>
   <programme start="20261027000000 -0500" stop="20261027030000 -0500" channel="espn3-mx.tv">
-    <title lang="es">Juego 3</title>
+    <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>
     <desc lang="es">Vive las emociones de los partidos de la Serie Mundial de la MLB, evento final de postemporada donde participan los campeones de las ligas Nacional y Americana.</desc>
-    <category lang="es">Serie Mundial de la MLB</category>
+    <category lang="es">Juego 3 - Serie Mundial, Tropicana Field</category>
   </programme>
   <programme start="20261027030000 -0500" stop="20261027050000 -0500" channel="espn3-mx.tv">
     <title lang="es">Dallas Cowboys vs. Philadelphia Eagles</title>
@@ -1763,7 +2023,7 @@
   </programme>
   <programme start="20261027050000 -0500" stop="20261027060000 -0500" channel="espn3-mx.tv">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261027060000 -0500" stop="20261027080000 -0500" channel="espn3-mx.tv">
@@ -1830,6 +2090,81 @@
     <title lang="es">Fleetwood vs. Arsenal</title>
     <desc lang="es">Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.</desc>
     <category lang="es">Octavos de final, Highbury Stadium</category>
+  </programme>
+  <programme start="20261028060000 -0500" stop="20261028080000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Get Up!</title>
+    <desc lang="es">Un segmento matutino presentado por Mike Greenberg junto a Jalen Rose y Michelle Beadle, quienes reciben a un invitado y presentan noticias, opiniones y análisis de los anfitriones y del mundo del deporte.</desc>
+    <category lang="es">Get Up!</category>
+  </programme>
+  <programme start="20261028080000 -0500" stop="20261028100000 -0500" channel="espn3-mx.tv">
+    <title lang="es">First Take</title>
+    <desc lang="es">Los analistas y reporteros deportivos con destacada trayectoria Max Kellerman y Stephen A. Smith, junto con otros invitados, realizan una mesa redonda para debatir temas deportivos actuales y de interés para los estadounidenses.</desc>
+    <category lang="es">First Take</category>
+  </programme>
+  <programme start="20261028100000 -0500" stop="20261028120000 -0500" channel="espn3-mx.tv">
+    <title lang="es">The Pat McAfee Show</title>
+    <desc lang="es">Pat McAfee aporta su humor y sarcasmo al micrófono para resaltar las principales noticias del día. El presentador pondrá el foco en la lo más actual en el mundo del deporte y de la cultura pop junto a un equipo de expertos e invitados.</desc>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20261028120000 -0500" stop="20261028130000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Big Day</title>
+    <desc lang="es">Un espacio que cubre las noticias más importantes del mundo del deporte, combinando reportajes, entrevistas, perspectivas únicas y conversaciones auténticas con los protagonistas.</desc>
+    <category lang="es">Big Day</category>
+  </programme>
+  <programme start="20261028130000 -0500" stop="20261028133000 -0500" channel="espn3-mx.tv">
+    <title lang="es">NBA Today</title>
+    <desc lang="es">Programa diario desde Los Ángeles sobre todo lo que hay que saber sobre la NBA.</desc>
+    <category lang="es">NBA Today</category>
+  </programme>
+  <programme start="20261028133000 -0500" stop="20261028154500 -0500" channel="espn3-mx.tv">
+    <title lang="es">Bayern Múnich vs. Magdeburgo</title>
+    <desc lang="es">Vive las emociones de los partidos de la 84º edición de la Copa de Alemania, organizada por la Federación Alemana de Fútbol.</desc>
+    <category lang="es">16vos de final, Allianz Arena</category>
+  </programme>
+  <programme start="20261028154500 -0500" stop="20261028160000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Foil Baja California Sur</title>
+    <desc lang="es">Explora la asombrosa naturaleza y paisajes de México de norte a sur mientras descubre la técnica y la pasión de diferentes deportes extremos.</desc>
+    <category lang="es">México épico</category>
+  </programme>
+  <programme start="20261028160000 -0500" stop="20261028170000 -0500" channel="espn3-mx.tv">
+    <title lang="es">NBA Tip-Off</title>
+    <desc lang="es">Vive toda la emoción de los partidos de NBA Tip-Off en su edición del 2026, que marca la campaña promocional para el inicio de la temporada de la NBA. Disfruta de los enfrentamientos entre los equipos que participan y conoce a los talentos.</desc>
+    <category lang="es">NBA Tip-Off</category>
+  </programme>
+  <programme start="20261028170000 -0500" stop="20261028190000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Liverpool vs. Chelsea</title>
+    <desc lang="es">Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.</desc>
+    <category lang="es">Octavos de final, Anfield</category>
+  </programme>
+  <programme start="20261028190000 -0500" stop="20261028220500 -0500" channel="espn3-mx.tv">
+    <title lang="es">Primera ronda, Te Arai Links, Tomarata, New Zealand</title>
+    <desc lang="es">Disfruta del Campeonato Amateur de Asia-Pacífico 2026. El torneo reúne a los mejores golfistas aficionados masculinos de la región Asia-Pacífico, que representan a las 43 organizaciones afiliadas a la Confederación de Golf de Asia-Pacífico.</desc>
+    <category lang="es">Asia-Pacific Amateur Championship</category>
+  </programme>
+  <programme start="20261028220500 -0500" stop="20261028230500 -0500" channel="espn3-mx.tv">
+    <title lang="es">Inside the NBA</title>
+    <desc lang="es">Un panel de expertos comentará lo más importante en el planeta de los gigantes, llevando hasta ti la mayor actualidad de lo que sucede dentro de la NBA.</desc>
+    <category lang="es">Inside the NBA</category>
+  </programme>
+  <programme start="20261028230500 -0500" stop="20261029010000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Genoa vs. Juventus</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 9, Luigi Ferraris</category>
+  </programme>
+  <programme start="20261029010000 -0500" stop="20261029030000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
+    <desc lang="es">Vive las emociones de los partidos de la Serie Mundial de la MLB, evento final de postemporada donde participan los campeones de las ligas Nacional y Americana.</desc>
+    <category lang="es">Juego 5 - Serie Mundial, American Family Field</category>
+  </programme>
+  <programme start="20261029030000 -0500" stop="20261029050000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Philadelphia 76ers vs. Indiana Pacers</title>
+    <desc lang="es">Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
+    <category lang="es">Temporada regular, Gainbridge Fieldhouse</category>
+  </programme>
+  <programme start="20261029050000 -0500" stop="20261029070000 -0500" channel="espn3-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261026000000 -0500" stop="20261026030000 -0500" channel="espn4-mx.tv">
     <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>
@@ -2606,10 +2941,30 @@
     <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
     <category lang="es">Goles de la Serie A</category>
   </programme>
-  <programme start="20261027000000 -0500" stop="20261027020000 -0500" channel="espn-arg.tv">
-    <title lang="es">A confirmar</title>
-    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
-    <category lang="es">A confirmar</category>
+  <programme start="20261027000000 -0500" stop="20261027010000 -0500" channel="espn-arg.tv">
+    <title lang="es">Equipo Scrum</title>
+    <desc lang="es">El análisis y las opiniones de nuestros especialistas sobre lo mejor del rugby. La actualidad de los mejores torneos del mundo bajo la lupa de los analistas del programa y personalidades destacadas del deporte como invitados.</desc>
+    <category lang="es">Equipo Scrum</category>
+  </programme>
+  <programme start="20261027010000 -0500" stop="20261027020000 -0500" channel="espn-arg.tv">
+    <title lang="es">Goles de la Serie A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
+    <category lang="es">Goles de la Serie A</category>
+  </programme>
+  <programme start="20261027020000 -0500" stop="20261027040000 -0500" channel="espn-arg.tv">
+    <title lang="es">Goles de la Bundesliga</title>
+    <desc lang="es">Disfruta de los momentos más destacados de la Bundesliga alemana.</desc>
+    <category lang="es">Goles de la Bundesliga</category>
+  </programme>
+  <programme start="20261027040000 -0500" stop="20261027050000 -0500" channel="espn-arg.tv">
+    <title lang="es">Goles de la Ligue 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
+    <category lang="es">Goles de la Ligue 1</category>
+  </programme>
+  <programme start="20261027050000 -0500" stop="20261027070000 -0500" channel="espn-arg.tv">
+    <title lang="es">Goles de la Serie A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
+    <category lang="es">Goles de la Serie A</category>
   </programme>
   <programme start="20261027120000 -0500" stop="20261027140000 -0500" channel="espn-arg.tv">
     <title lang="es">A confirmar</title>
@@ -2771,7 +3126,122 @@
     <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Martín Souto para encenderte con los debates de un gran panel de especialistas.</desc>
     <category lang="es">ESPN F10</category>
   </programme>
-  <programme start="20261028000000 -0500" stop="20261028020000 -0500" channel="espn2-arg.tv">
+  <programme start="20261028000000 -0500" stop="20261028010000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028010000 -0500" stop="20261028020000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028020000 -0500" stop="20261028030000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028030000 -0500" stop="20261028040000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028040000 -0500" stop="20261028050000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028050000 -0500" stop="20261028060000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028060000 -0500" stop="20261028070000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028070000 -0500" stop="20261028090000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028090000 -0500" stop="20261028110000 -0500" channel="espn2-arg.tv">
+    <title lang="es">Buen día ESPN</title>
+    <desc lang="es">Un formato novedoso con entrevistas, protagonistas y la mejor onda.</desc>
+    <category lang="es">Buen día ESPN</category>
+  </programme>
+  <programme start="20261028110000 -0500" stop="20261028130000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
+    <category lang="es">ESPN F12</category>
+  </programme>
+  <programme start="20261028130000 -0500" stop="20261028142000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F90 - Primera edición</title>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.</desc>
+    <category lang="es">ESPN F90 - Primera edición</category>
+  </programme>
+  <programme start="20261028142000 -0500" stop="20261028162500 -0500" channel="espn2-arg.tv">
+    <title lang="es">Venezia vs. Inter</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 9, Stadio Pier Luigi Penzo</category>
+  </programme>
+  <programme start="20261028162500 -0500" stop="20261028164500 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028164500 -0500" stop="20261028185500 -0500" channel="espn2-arg.tv">
+    <title lang="es">Liverpool vs. Chelsea</title>
+    <desc lang="es">Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.</desc>
+    <category lang="es">Octavos de final, Anfield</category>
+  </programme>
+  <programme start="20261028185500 -0500" stop="20261028203000 -0500" channel="espn2-arg.tv">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Gustavo López conduce un panel lleno de figuras para analizar y debatir sobre el fútbol argentino, más la Conmebol Libertadores y la Conmebol Sudamericana.</desc>
+    <category lang="es">Equipo F</category>
+  </programme>
+  <programme start="20261028203000 -0500" stop="20261028220000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028220000 -0500" stop="20261028230000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261028230000 -0500" stop="20261029000000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Martín Souto para encenderte con los debates de un gran panel de especialistas.</desc>
+    <category lang="es">ESPN F10</category>
+  </programme>
+  <programme start="20261029000000 -0500" stop="20261029010000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029010000 -0500" stop="20261029020000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029020000 -0500" stop="20261029030000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029030000 -0500" stop="20261029040000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029040000 -0500" stop="20261029050000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261029050000 -0500" stop="20261029070000 -0500" channel="espn2-arg.tv">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
@@ -2786,10 +3256,30 @@
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
-  <programme start="20261026203000 -0500" stop="20261026223000 -0500" channel="espn3-arg.tv">
+  <programme start="20261026203000 -0500" stop="20261027011500 -0500" channel="espn3-arg.tv">
     <title lang="es">ESPN 3</title>
     <desc lang="es" />
     <category lang="es">ESPN 3</category>
+  </programme>
+  <programme start="20261027011500 -0500" stop="20261027021500 -0500" channel="espn3-arg.tv">
+    <title lang="es">Goles de la Ligue 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
+    <category lang="es">Goles de la Ligue 1</category>
+  </programme>
+  <programme start="20261027021500 -0500" stop="20261027043000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Dalton Smith vs. Alberto Puello</title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
+    <category lang="es">ESPN Knockout</category>
+  </programme>
+  <programme start="20261027043000 -0500" stop="20261027053000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Inter vs. Fiorentina</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 8, Stadio Giuseppe Meazza</category>
+  </programme>
+  <programme start="20261027053000 -0500" stop="20261027083000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Aguas arriba</title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
+    <category lang="es">Aguas arriba</category>
   </programme>
   <programme start="20261027083000 -0500" stop="20261027103000 -0500" channel="espn3-arg.tv">
     <title lang="es">ESPN 3</title>
@@ -2801,10 +3291,65 @@
     <desc lang="es" />
     <category lang="es">ESPN 3</category>
   </programme>
-  <programme start="20261028203000 -0500" stop="20261028223000 -0500" channel="espn3-arg.tv">
-    <title lang="es">ESPN 3</title>
-    <desc lang="es" />
-    <category lang="es">ESPN 3</category>
+  <programme start="20261028060000 -0500" stop="20261028080000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Goles de la Serie A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
+    <category lang="es">Goles de la Serie A</category>
+  </programme>
+  <programme start="20261028080000 -0500" stop="20261028100000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Arsenal vs. Everton</title>
+    <desc lang="es">Vive los partidos de la 35º edición de la Premier League, la máxima competición de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+    <category lang="es">Fecha 8, Emirates Stadium</category>
+  </programme>
+  <programme start="20261028100000 -0500" stop="20261028120000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Como vs. Sassuolo</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 8, Stadio Giuseppe Sinigaglia</category>
+  </programme>
+  <programme start="20261028120000 -0500" stop="20261028140000 -0500" channel="espn3-arg.tv">
+    <title lang="es">PSV vs. Feyenoord</title>
+    <desc lang="es">Vive las emociones de los partidos de la 71º edición de la Eredivisie, la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia.</desc>
+    <category lang="es">Fecha 10, Philips Stadion</category>
+  </programme>
+  <programme start="20261028140000 -0500" stop="20261028160000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Rayo Vallecano vs. Elche</title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <category lang="es">Fecha 10, Estadio de Vallecas</category>
+  </programme>
+  <programme start="20261028160000 -0500" stop="20261028193000 -0500" channel="espn3-arg.tv">
+    <title lang="es">A confirmar</title>
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <category lang="es">A confirmar</category>
+  </programme>
+  <programme start="20261028193000 -0500" stop="20261028200000 -0500" channel="espn3-arg.tv">
+    <title lang="es">NBA esta noche</title>
+    <desc lang="es">Durante las noches es el momento ideal para disfrutar de un encuentro de la NBA. Una manera de sumergirse en el planeta de los gigantes a través de esta emocionante transmisión que te llevará cada punto y cada jugada.</desc>
+    <category lang="es">NBA esta noche</category>
+  </programme>
+  <programme start="20261028200000 -0500" stop="20261028223000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Philadelphia 76ers vs. Indiana Pacers</title>
+    <desc lang="es">Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
+    <category lang="es">Temporada regular, Gainbridge Fieldhouse</category>
+  </programme>
+  <programme start="20261028223000 -0500" stop="20261029010000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Oklahoma City Thunder vs. Dallas Mavericks</title>
+    <desc lang="es">Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
+    <category lang="es">Temporada regular, American Airlines Center</category>
+  </programme>
+  <programme start="20261029010000 -0500" stop="20261029020000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Goles de la Eredivisie</title>
+    <desc lang="es">Los goles del fútbol holandés.</desc>
+    <category lang="es">Goles de la Eredivisie</category>
+  </programme>
+  <programme start="20261029020000 -0500" stop="20261029040000 -0500" channel="espn3-arg.tv">
+    <title lang="es">Milan vs. Bologna</title>
+    <desc lang="es">Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+    <category lang="es">Fecha 9, San Siro/Giuseppe Meazza</category>
+  </programme>
+  <programme start="20261029040000 -0500" stop="20261029060000 -0500" channel="espn3-arg.tv">
+    <title lang="es">PSV vs. Feyenoord</title>
+    <desc lang="es">Vive las emociones de los partidos de la 71º edición de la Eredivisie, la máxima competición profesional de fútbol en Países Bajos que reúne a los equipos más destacados del país en encuentros cargados de adrenalina y competencia.</desc>
+    <category lang="es">Fecha 10, Philips Stadion</category>
   </programme>
   <programme start="20261026000000 -0500" stop="20261026030000 -0500" channel="espn4-arg.tv">
     <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>

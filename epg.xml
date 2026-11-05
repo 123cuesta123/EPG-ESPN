@@ -2157,14 +2157,14 @@
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261105185000 -0500" stop="20261105205500 -0500" channel="espn-mx.tv">
-    <title lang="es">Liga BBVA Expansión MX</title>
+    <title lang="es">Cancún vs. Piratas</title>
     <desc lang="es">Vive los partidos de la 13º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México.</desc>
-    <category lang="es">Liga BBVA Expansión MX</category>
+    <category lang="es">Cuartos de final - Ida, Estadio Andrés Quintana Roo</category>
   </programme>
   <programme start="20261105205500 -0500" stop="20261105230000 -0500" channel="espn-mx.tv">
-    <title lang="es">Liga BBVA Expansión MX</title>
+    <title lang="es">Alacranes Durango vs. Leones Negros</title>
     <desc lang="es">Vive los partidos de la 13º edición del torneo de la Liga BBVA Expansión MX, un campeonato de fútbol fundado en 2020 como parte del Proyecto de Estabilización. que tiene como objetivo rescatar a los equipos de la Liga de Ascenso de México.</desc>
-    <category lang="es">Liga BBVA Expansión MX</category>
+    <category lang="es">Cuartos de final - Ida, Estadio Francisco Zarco</category>
   </programme>
   <programme start="20261105230000 -0500" stop="20261106000000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>

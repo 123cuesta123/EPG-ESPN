@@ -238,7 +238,7 @@
   </programme>
   <programme start="20261105060000 -0500" stop="20261105080000 -0500" channel="espn-lat.tv">
     <title lang="es">ESPN F90</title>
-    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos.</desc>
+    <desc lang="es">Toda la información del campeonato nacional. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero.</desc>
     <category lang="es">ESPN F90</category>
   </programme>
   <programme start="20261105080000 -0500" stop="20261105090000 -0500" channel="espn-lat.tv">
@@ -303,7 +303,7 @@
   </programme>
   <programme start="20261106000000 -0500" stop="20261106020000 -0500" channel="espn-lat.tv">
     <title lang="es">ESPN F90</title>
-    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos.</desc>
+    <desc lang="es">Toda la información del campeonato nacional. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero.</desc>
     <category lang="es">ESPN F90</category>
   </programme>
   <programme start="20261106020000 -0500" stop="20261106080000 -0500" channel="espn-lat.tv">
@@ -497,9 +497,9 @@
     <category lang="es">ESPN F12</category>
   </programme>
   <programme start="20261105110000 -0500" stop="20261105123000 -0500" channel="espn2-lat.tv">
-    <title lang="es">ESPN F90 - Primera edición</title>
-    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.</desc>
-    <category lang="es">ESPN F90 - Primera edición</category>
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">Toda la información del campeonato nacional. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero.</desc>
+    <category lang="es">ESPN F90</category>
   </programme>
   <programme start="20261105123000 -0500" stop="20261105144000 -0500" channel="espn2-lat.tv">
     <title lang="es">Milan (Ita) vs. Ferencvaros (Hun)</title>
@@ -517,9 +517,9 @@
     <category lang="es">Equipo F</category>
   </programme>
   <programme start="20261105183000 -0500" stop="20261105200000 -0500" channel="espn2-lat.tv">
-    <title lang="es">SportsCenter Night</title>
-    <desc lang="es">Un nuevo SportsCenter en versión nocturna con todo el análisis y la información de la actualidad deportiva.</desc>
-    <category lang="es">SportsCenter Night</category>
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261105200000 -0500" stop="20261105210000 -0500" channel="espn2-lat.tv">
     <title lang="es">SportsCenter</title>

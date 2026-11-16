@@ -937,8 +937,8 @@
     <category lang="es">Fecha 6 - Grupo C - Liga C, Astana Arena</category>
   </programme>
   <programme start="20261114230000 -0500" stop="20261115010000 -0500" channel="espn4-lat.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por LAT ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por LAT ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114010000 -0500" stop="20261114020000 -0500" channel="espn4-lat.tv">
@@ -1002,8 +1002,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115230000 -0500" stop="20261116010000 -0500" channel="espn4-lat.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por LAT ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por LAT ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115010000 -0500" stop="20261115020000 -0500" channel="espn4-lat.tv">
@@ -1067,8 +1067,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116230000 -0500" stop="20261117010000 -0500" channel="espn4-lat.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por LAT ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por LAT ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116010000 -0500" stop="20261116020000 -0500" channel="espn4-lat.tv">
@@ -1206,14 +1206,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por LAT ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261114193000 -0500" stop="20261114200000 -0500" channel="espn5-lat.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por LAT ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261114200000 -0500" stop="20261114213000 -0500" channel="espn5-lat.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por LAT ®| ESPN 5.</desc>
+  <programme start="20261114193000 -0500" stop="20261114213000 -0500" channel="espn5-lat.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por LAT ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114213000 -0500" stop="20261114233000 -0500" channel="espn5-lat.tv">
@@ -1301,14 +1296,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por LAT ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261115193000 -0500" stop="20261115200000 -0500" channel="espn5-lat.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por LAT ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115213000 -0500" channel="espn5-lat.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por LAT ®| ESPN 5.</desc>
+  <programme start="20261115193000 -0500" stop="20261115213000 -0500" channel="espn5-lat.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por LAT ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115213000 -0500" stop="20261115233000 -0500" channel="espn5-lat.tv">
@@ -1396,14 +1386,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por LAT ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261116193000 -0500" stop="20261116200000 -0500" channel="espn5-lat.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por LAT ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261116200000 -0500" stop="20261116213000 -0500" channel="espn5-lat.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por LAT ®| ESPN 5.</desc>
+  <programme start="20261116193000 -0500" stop="20261116213000 -0500" channel="espn5-lat.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por LAT ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116213000 -0500" stop="20261116233000 -0500" channel="espn5-lat.tv">
@@ -2672,8 +2657,8 @@
     <category lang="es">Arena CDMX</category>
   </programme>
   <programme start="20261114230000 -0500" stop="20261115010000 -0500" channel="espn4-mx.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por MX ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por MX ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114010000 -0500" stop="20261114020000 -0500" channel="espn4-mx.tv">
@@ -2737,8 +2722,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115230000 -0500" stop="20261116010000 -0500" channel="espn4-mx.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por MX ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por MX ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115010000 -0500" stop="20261115020000 -0500" channel="espn4-mx.tv">
@@ -2802,8 +2787,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116230000 -0500" stop="20261117010000 -0500" channel="espn4-mx.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por MX ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por MX ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116010000 -0500" stop="20261116020000 -0500" channel="espn4-mx.tv">
@@ -2941,14 +2926,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por MX ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261114193000 -0500" stop="20261114200000 -0500" channel="espn5-mx.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por MX ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261114200000 -0500" stop="20261114213000 -0500" channel="espn5-mx.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por MX ®| ESPN 5.</desc>
+  <programme start="20261114193000 -0500" stop="20261114213000 -0500" channel="espn5-mx.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por MX ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114213000 -0500" stop="20261114233000 -0500" channel="espn5-mx.tv">
@@ -3036,14 +3016,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por MX ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261115193000 -0500" stop="20261115200000 -0500" channel="espn5-mx.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por MX ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115213000 -0500" channel="espn5-mx.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por MX ®| ESPN 5.</desc>
+  <programme start="20261115193000 -0500" stop="20261115213000 -0500" channel="espn5-mx.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por MX ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115213000 -0500" stop="20261115233000 -0500" channel="espn5-mx.tv">
@@ -3131,14 +3106,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por MX ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261116193000 -0500" stop="20261116200000 -0500" channel="espn5-mx.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por MX ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261116200000 -0500" stop="20261116213000 -0500" channel="espn5-mx.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por MX ®| ESPN 5.</desc>
+  <programme start="20261116193000 -0500" stop="20261116213000 -0500" channel="espn5-mx.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por MX ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116213000 -0500" stop="20261116233000 -0500" channel="espn5-mx.tv">
@@ -4147,8 +4117,8 @@
     <category lang="es">Fecha 5 - Grupo D - Liga A, Estádio Municipal de Braga</category>
   </programme>
   <programme start="20261114230000 -0500" stop="20261115010000 -0500" channel="espn4-arg.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por ARG ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por ARG ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114010000 -0500" stop="20261114020000 -0500" channel="espn4-arg.tv">
@@ -4212,8 +4182,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115230000 -0500" stop="20261116010000 -0500" channel="espn4-arg.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por ARG ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por ARG ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115010000 -0500" stop="20261115020000 -0500" channel="espn4-arg.tv">
@@ -4277,8 +4247,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116230000 -0500" stop="20261117010000 -0500" channel="espn4-arg.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por ARG ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por ARG ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116010000 -0500" stop="20261116020000 -0500" channel="espn4-arg.tv">
@@ -5142,8 +5112,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114230000 -0500" stop="20261115010000 -0500" channel="espn4-col.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por COL ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por COL ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114010000 -0500" stop="20261114020000 -0500" channel="espn4-col.tv">
@@ -5207,8 +5177,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115230000 -0500" stop="20261116010000 -0500" channel="espn4-col.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por COL ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por COL ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115010000 -0500" stop="20261115020000 -0500" channel="espn4-col.tv">
@@ -5272,8 +5242,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116230000 -0500" stop="20261117010000 -0500" channel="espn4-col.tv">
-    <title lang="es">World Rugby Nations Cup 2026</title>
-    <desc lang="es">Transmisión de World Rugby Nations Cup 2026 por COL ®| ESPN 4.</desc>
+    <title lang="es">Zimbabue vs. Uruguay</title>
+    <desc lang="es">Transmisión de Zimbabue vs. Uruguay por COL ®| ESPN 4.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116010000 -0500" stop="20261116020000 -0500" channel="espn4-col.tv">
@@ -5411,14 +5381,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por COL ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261114193000 -0500" stop="20261114200000 -0500" channel="espn5-col.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por COL ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261114200000 -0500" stop="20261114213000 -0500" channel="espn5-col.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por COL ®| ESPN 5.</desc>
+  <programme start="20261114193000 -0500" stop="20261114213000 -0500" channel="espn5-col.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por COL ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114213000 -0500" stop="20261114233000 -0500" channel="espn5-col.tv">
@@ -5506,14 +5471,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por COL ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261115193000 -0500" stop="20261115200000 -0500" channel="espn5-col.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por COL ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115213000 -0500" channel="espn5-col.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por COL ®| ESPN 5.</desc>
+  <programme start="20261115193000 -0500" stop="20261115213000 -0500" channel="espn5-col.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por COL ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115213000 -0500" stop="20261115233000 -0500" channel="espn5-col.tv">
@@ -5601,14 +5561,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por COL ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261116193000 -0500" stop="20261116200000 -0500" channel="espn5-col.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por COL ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261116200000 -0500" stop="20261116213000 -0500" channel="espn5-col.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por COL ®| ESPN 5.</desc>
+  <programme start="20261116193000 -0500" stop="20261116213000 -0500" channel="espn5-col.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por COL ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116213000 -0500" stop="20261116233000 -0500" channel="espn5-col.tv">
@@ -7171,14 +7126,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por CHI ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261114193000 -0500" stop="20261114200000 -0500" channel="espn5-chi.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por CHI ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261114200000 -0500" stop="20261114213000 -0500" channel="espn5-chi.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por CHI ®| ESPN 5.</desc>
+  <programme start="20261114193000 -0500" stop="20261114213000 -0500" channel="espn5-chi.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por CHI ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114213000 -0500" stop="20261114233000 -0500" channel="espn5-chi.tv">
@@ -7266,14 +7216,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por CHI ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261115193000 -0500" stop="20261115200000 -0500" channel="espn5-chi.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por CHI ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115213000 -0500" channel="espn5-chi.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por CHI ®| ESPN 5.</desc>
+  <programme start="20261115193000 -0500" stop="20261115213000 -0500" channel="espn5-chi.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por CHI ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115213000 -0500" stop="20261115233000 -0500" channel="espn5-chi.tv">
@@ -7361,14 +7306,9 @@
     <desc lang="es">Transmisión de Dallas Cowboys vs. San Francisco 49ers por CHI ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261116193000 -0500" stop="20261116200000 -0500" channel="espn5-chi.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por CHI ®| ESPN 5.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261116200000 -0500" stop="20261116213000 -0500" channel="espn5-chi.tv">
-    <title lang="es">ESPN 5 Chile</title>
-    <desc lang="es">Transmisión de ESPN 5 Chile por CHI ®| ESPN 5.</desc>
+  <programme start="20261116193000 -0500" stop="20261116213000 -0500" channel="espn5-chi.tv">
+    <title lang="es">Amistosos de fútbol de clubes masculinos</title>
+    <desc lang="es">Transmisión de Amistosos de fútbol de clubes masculinos por CHI ®| ESPN 5.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116213000 -0500" stop="20261116233000 -0500" channel="espn5-chi.tv">
@@ -8227,8 +8167,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114130000 -0500" stop="20261114140000 -0500" channel="espn-deportes-usa.tv">
-    <title lang="es">ESPN Deportes</title>
-    <desc lang="es">Transmisión de ESPN Deportes por USA ®| ESPN DEPORTES.</desc>
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Transmisión de SportsCenter por USA ®| ESPN DEPORTES.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261114140000 -0500" stop="20261114150000 -0500" channel="espn-deportes-usa.tv">
@@ -8337,8 +8277,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115130000 -0500" stop="20261115140000 -0500" channel="espn-deportes-usa.tv">
-    <title lang="es">ESPN Deportes</title>
-    <desc lang="es">Transmisión de ESPN Deportes por USA ®| ESPN DEPORTES.</desc>
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Transmisión de SportsCenter por USA ®| ESPN DEPORTES.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261115140000 -0500" stop="20261115150000 -0500" channel="espn-deportes-usa.tv">
@@ -8447,8 +8387,8 @@
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116130000 -0500" stop="20261116140000 -0500" channel="espn-deportes-usa.tv">
-    <title lang="es">ESPN Deportes</title>
-    <desc lang="es">Transmisión de ESPN Deportes por USA ®| ESPN DEPORTES.</desc>
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Transmisión de SportsCenter por USA ®| ESPN DEPORTES.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20261116140000 -0500" stop="20261116150000 -0500" channel="espn-deportes-usa.tv">

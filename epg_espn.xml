@@ -287,9 +287,9 @@
     <category lang="es">Compacto - Nitto ATP Finals</category>
   </programme>
   <programme start="20261119143000 -0500" stop="20261119163000 -0500" channel="espn-lat.tv">
-    <title lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin, Italy</title>
+    <title lang="es">Alexander Zverev (Ger) vs. Arthur Fils (Fra)</title>
     <desc lang="es">Disfruta las emociones de esta competencia perteneciente al ATP Tour que se disputa en el Inalpi Arena de Turín, Italia. Participan los 8 mejores jugadores individuales y las 8 mejores parejas de dobles del año.</desc>
-    <category lang="es">Nitto ATP Finals</category>
+    <category lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin</category>
   </programme>
   <programme start="20261119163000 -0500" stop="20261119170000 -0500" channel="espn-lat.tv">
     <title lang="es">ATP Tour Uncovered</title>
@@ -2162,9 +2162,9 @@
     <category lang="es">SportsCenter</category>
   </programme>
   <programme start="20261119070000 -0500" stop="20261119090000 -0500" channel="espn-mx.tv">
-    <title lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin, Italy</title>
+    <title lang="es">Ben Shelton (USA) vs. Rafael Jodar (Esp)</title>
     <desc lang="es">Disfruta las emociones de esta competencia perteneciente al ATP Tour que se disputa en el Inalpi Arena de Turín, Italia. Participan los 8 mejores jugadores individuales y las 8 mejores parejas de dobles del año.</desc>
-    <category lang="es">Nitto ATP Finals</category>
+    <category lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin, Italy</category>
   </programme>
   <programme start="20261119090000 -0500" stop="20261119110000 -0500" channel="espn-mx.tv">
     <title lang="es">Boston Celtics vs. Denver Nuggets</title>
@@ -2182,9 +2182,9 @@
     <category lang="es">ATP Tour Uncovered</category>
   </programme>
   <programme start="20261119133000 -0500" stop="20261119153000 -0500" channel="espn-mx.tv">
-    <title lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin, Italy</title>
+    <title lang="es">Alexander Zverev (Ger) vs. Arthur Fils (Fra)</title>
     <desc lang="es">Disfruta las emociones de esta competencia perteneciente al ATP Tour que se disputa en el Inalpi Arena de Turín, Italia. Participan los 8 mejores jugadores individuales y las 8 mejores parejas de dobles del año.</desc>
-    <category lang="es">Nitto ATP Finals</category>
+    <category lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin</category>
   </programme>
   <programme start="20261119153000 -0500" stop="20261119160000 -0500" channel="espn-mx.tv">
     <title lang="es">Lo mejor de MotoGP</title>
@@ -2242,9 +2242,9 @@
     <category lang="es">Fútbol picante</category>
   </programme>
   <programme start="20261120040000 -0500" stop="20261120060000 -0500" channel="espn-mx.tv">
-    <title lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin, Italy</title>
+    <title lang="es">Ben Shelton (USA) vs. Rafael Jodar (Esp)</title>
     <desc lang="es">Disfruta las emociones de esta competencia perteneciente al ATP Tour que se disputa en el Inalpi Arena de Turín, Italia. Participan los 8 mejores jugadores individuales y las 8 mejores parejas de dobles del año.</desc>
-    <category lang="es">Nitto ATP Finals</category>
+    <category lang="es">Ruedas Preliminares - Día 5, Inalpi Arena, Turin, Italy</category>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120070000 -0500" channel="espn-mx.tv">
     <title lang="es">SportsCenter</title>
@@ -2736,10 +2736,85 @@
     <desc lang="es">Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
     <category lang="es">Temporada regular, Kaseya Center</category>
   </programme>
-  <programme start="20261119033000 -0500" stop="20261119053000 -0500" channel="espn3-mx.tv">
+  <programme start="20261119033000 -0500" stop="20261119060000 -0500" channel="espn3-mx.tv">
     <title lang="es">Boston Celtics vs. Denver Nuggets</title>
     <desc lang="es">Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
     <category lang="es">Temporada regular, Ball Arena</category>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119070000 -0500" channel="espn3-mx.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Ofrece informaciones, análisis y comentarios profundos del deporte internacional, pero con especial énfasis sobre todo lo referente a las disciplinas sudamericanas.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119070000 -0500" stop="20261119090000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Get Up!</title>
+    <desc lang="es">Un segmento matutino presentado por Mike Greenberg junto a Jalen Rose y Michelle Beadle, quienes reciben a un invitado y presentan noticias, opiniones y análisis de los anfitriones y del mundo del deporte.</desc>
+    <category lang="es">Get Up!</category>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119110000 -0500" channel="espn3-mx.tv">
+    <title lang="es">First Take</title>
+    <desc lang="es">Los analistas y reporteros deportivos con destacada trayectoria Max Kellerman y Stephen A. Smith, junto con otros invitados, realizan una mesa redonda para debatir temas deportivos actuales y de interés para los estadounidenses.</desc>
+    <category lang="es">First Take</category>
+  </programme>
+  <programme start="20261119110000 -0500" stop="20261119130000 -0500" channel="espn3-mx.tv">
+    <title lang="es">The Pat McAfee Show</title>
+    <desc lang="es">Pat McAfee aporta su humor y sarcasmo al micrófono para resaltar las principales noticias del día. El presentador pondrá el foco en la lo más actual en el mundo del deporte y de la cultura pop junto a un equipo de expertos e invitados.</desc>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20261119130000 -0500" stop="20261119133000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Big Day</title>
+    <desc lang="es">Un espacio que cubre las noticias más importantes del mundo del deporte, combinando reportajes, entrevistas, perspectivas únicas y conversaciones auténticas con los protagonistas.</desc>
+    <category lang="es">Big Day</category>
+  </programme>
+  <programme start="20261119133000 -0500" stop="20261119153000 -0500" channel="espn3-mx.tv">
+    <title lang="es">3rd Place, Michelob Ultra Arena, Las Vegas, NV, USA</title>
+    <desc lang="es">Ocho equipos universitarios de baloncesto masculino compiten en Las Vegas en el Players Era 8 de 2026, enfrentándose en un torneo de eliminación directa de tres días por el campeonato.</desc>
+    <category lang="es">NCAA Men's Basketball Players Era 8</category>
+  </programme>
+  <programme start="20261119153000 -0500" stop="20261119160000 -0500" channel="espn3-mx.tv">
+    <title lang="es">College Basketball Live Scoreboard</title>
+    <desc lang="es">Siga los últimos resultados y momentos destacados del baloncesto universitario.</desc>
+    <category lang="es">College Basketball Live Scoreboard</category>
+  </programme>
+  <programme start="20261119160000 -0500" stop="20261119180000 -0500" channel="espn3-mx.tv">
+    <title lang="es">5th Place, Michelob Ultra Arena, Las Vegas, NV, USA</title>
+    <desc lang="es">Ocho equipos universitarios de baloncesto masculino compiten en Las Vegas en el Players Era 8 de 2026, enfrentándose en un torneo de eliminación directa de tres días por el campeonato.</desc>
+    <category lang="es">NCAA Men's Basketball Players Era 8</category>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119183000 -0500" channel="espn3-mx.tv">
+    <title lang="es">NCAAF College Football Countdown</title>
+    <desc lang="es" />
+    <category lang="es">NCAAF College Football Countdown</category>
+  </programme>
+  <programme start="20261119183000 -0500" stop="20261119213000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Rice vs. Temple</title>
+    <desc lang="es" />
+    <category lang="es">Lincoln Financial Field, Philadelphia, PA, USA</category>
+  </programme>
+  <programme start="20261119213000 -0500" stop="20261119220000 -0500" channel="espn3-mx.tv">
+    <title lang="es">College Basketball Live Scoreboard</title>
+    <desc lang="es">Siga los últimos resultados y momentos destacados del baloncesto universitario.</desc>
+    <category lang="es">College Basketball Live Scoreboard</category>
+  </programme>
+  <programme start="20261119220000 -0500" stop="20261120000000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Championship, Michelob Ultra Arena, Las Vegas, NV, USA</title>
+    <desc lang="es">Ocho equipos universitarios de baloncesto masculino compiten en Las Vegas en el Players Era 8 de 2026, enfrentándose en un torneo de eliminación directa de tres días por el campeonato.</desc>
+    <category lang="es">NCAA Men's Basketball Players Era 8</category>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120010000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Final Femenina</title>
+    <desc lang="es">Disfruta lo más emocionante de los partidos disputados en el marco del Dubai Premier Padel P1. Los amantes del deporte podrán disfrutar de una competición que reúne a los deportistas profesionales más destacados del mundo.</desc>
+    <category lang="es">ESPN Compact - Premier Padel - Dubai P1</category>
+  </programme>
+  <programme start="20261120010000 -0500" stop="20261120040000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Rice vs. Temple</title>
+    <desc lang="es" />
+    <category lang="es">Lincoln Financial Field, Philadelphia, PA, USA</category>
+  </programme>
+  <programme start="20261120040000 -0500" stop="20261120060000 -0500" channel="espn3-mx.tv">
+    <title lang="es">Capitanes de Ciudad de México vs. Oklahoma City Blue</title>
+    <desc lang="es">Liga menor de baloncesto promocionada y organizada por la NBA.</desc>
+    <category lang="es">Paycom Center, Oklahoma City, OK, USA</category>
   </programme>
   <programme start="20261120060000 -0500" stop="20261120070000 -0500" channel="espn3-mx.tv">
     <title lang="es">SportsCenter</title>
@@ -3957,14 +4032,14 @@
     <category lang="es">Bundesliga Preview Show</category>
   </programme>
   <programme start="20261121050000 -0500" stop="20261121053000 -0500" channel="espn-arg.tv">
+    <title lang="es">Mundo Premier League</title>
+    <desc lang="es">Un seguimiento detallado de todo lo que acontece en el campeonato más disputado y emocionante del mundo.</desc>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20261121053000 -0500" stop="20261121073000 -0500" channel="espn-arg.tv">
     <title lang="es">Aguas arriba</title>
     <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
     <category lang="es">Aguas arriba</category>
-  </programme>
-  <programme start="20261121053000 -0500" stop="20261121073000 -0500" channel="espn-arg.tv">
-    <title lang="es">A confirmar</title>
-    <desc lang="es">Programación a confirmar.</desc>
-    <category lang="es">Variedades</category>
   </programme>
   <programme start="20261118060000 -0500" stop="20261118070000 -0500" channel="espn2-arg.tv">
     <title lang="es">SportsCenter</title>
@@ -4056,7 +4131,102 @@
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
   </programme>
-  <programme start="20261119050000 -0500" stop="20261119070000 -0500" channel="espn2-arg.tv">
+  <programme start="20261119050000 -0500" stop="20261119060000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119060000 -0500" stop="20261119070000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119070000 -0500" stop="20261119080000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119080000 -0500" stop="20261119090000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119090000 -0500" stop="20261119110000 -0500" channel="espn2-arg.tv">
+    <title lang="es">Buen día ESPN</title>
+    <desc lang="es">Un formato novedoso con entrevistas, protagonistas y la mejor onda.</desc>
+    <category lang="es">Buen día ESPN</category>
+  </programme>
+  <programme start="20261119110000 -0500" stop="20261119130000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
+    <category lang="es">ESPN F12</category>
+  </programme>
+  <programme start="20261119130000 -0500" stop="20261119150000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F90 - Primera edición</title>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.</desc>
+    <category lang="es">ESPN F90 - Primera edición</category>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119163000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F3</title>
+    <desc lang="es">Un espacio que aborda la agenda futbolística de forma descontracturada y junto a diversos expertos invitados. Los panelistas deberán elegir sus podios de mejores futbolistas, equipos, jugadas, goles y mucho más.</desc>
+    <category lang="es">ESPN F3</category>
+  </programme>
+  <programme start="20261119163000 -0500" stop="20261119180000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119180000 -0500" stop="20261119190000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con Matías Martin, Pablo González y gran equipo encontrarás lo mejor de la actualidad del fútbol argentino y del exterior. Aparte, toda la previa de Libertadores y Sudamericana.</desc>
+    <category lang="es">ESPN F360</category>
+  </programme>
+  <programme start="20261119190000 -0500" stop="20261119203000 -0500" channel="espn2-arg.tv">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Gustavo López conduce un panel lleno de figuras para analizar y debatir sobre el fútbol argentino, más la Conmebol Libertadores y la Conmebol Sudamericana.</desc>
+    <category lang="es">Equipo F</category>
+  </programme>
+  <programme start="20261119203000 -0500" stop="20261119220000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119220000 -0500" stop="20261119230000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261119230000 -0500" stop="20261120000000 -0500" channel="espn2-arg.tv">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Martín Souto para encenderte con los debates de un gran panel de especialistas.</desc>
+    <category lang="es">ESPN F10</category>
+  </programme>
+  <programme start="20261120000000 -0500" stop="20261120010000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261120010000 -0500" stop="20261120020000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261120020000 -0500" stop="20261120030000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261120030000 -0500" stop="20261120040000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261120040000 -0500" stop="20261120050000 -0500" channel="espn2-arg.tv">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+  </programme>
+  <programme start="20261120050000 -0500" stop="20261120060000 -0500" channel="espn2-arg.tv">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
@@ -6615,6 +6785,101 @@
     <title lang="es">ESPN Knockout</title>
     <desc lang="es">Transmisión de ESPN Knockout por COL ®| ESPN 7.</desc>
     <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261118060000 -0500" stop="20261118083000 -0500" channel="espn-chi.tv">
+    <title lang="es">Toronto Maple Leafs vs. Chicago Blackhawks</title>
+    <desc lang="es">Vive los partidos de la 110º temporada de la liga profesional norteamericana de hockey sobre hielo, formada por clubes de Estados Unidos y Canadá.</desc>
+    <category lang="es">Temporada regular, United Center</category>
+  </programme>
+  <programme start="20261118083000 -0500" stop="20261118090000 -0500" channel="espn-chi.tv">
+    <title lang="es">Racing on the Edge</title>
+    <desc lang="es">Un acceso sin precedentes a la liga más alta de este deporte para conocer a los mejores atletas y competidores de la disciplina.</desc>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20261118090000 -0500" stop="20261118113000 -0500" channel="espn-chi.tv">
+    <title lang="es">Dallas Stars vs. Vegas Golden Knights</title>
+    <desc lang="es">Vive los partidos de la 110º temporada de la liga profesional norteamericana de hockey sobre hielo, formada por clubes de Estados Unidos y Canadá.</desc>
+    <category lang="es">Temporada regular, T-Mobile Arena</category>
+  </programme>
+  <programme start="20261118113000 -0500" stop="20261118123200 -0500" channel="espn-chi.tv">
+    <title lang="es">NFL Semanal</title>
+    <desc lang="es">Resumen semanal de los partidos de la National Football League.</desc>
+    <category lang="es">NFL Semanal</category>
+  </programme>
+  <programme start="20261118123200 -0500" stop="20261118133400 -0500" channel="espn-chi.tv">
+    <title lang="es">España vs. Inglaterra</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 5º edición de la Liga de Naciones de la UEFA. La competición será parte de la clasificación de la UEFA para la Eurocopa 2028.</desc>
+    <category lang="es">Fecha 6 - Liga A</category>
+  </programme>
+  <programme start="20261118133400 -0500" stop="20261118143600 -0500" channel="espn-chi.tv">
+    <title lang="es">Gales vs. Portugal</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 5º edición de la Liga de Naciones de la UEFA. La competición será parte de la clasificación de la UEFA para la Eurocopa 2028.</desc>
+    <category lang="es">Fecha 6 - Liga A</category>
+  </programme>
+  <programme start="20261118143600 -0500" stop="20261118153800 -0500" channel="espn-chi.tv">
+    <title lang="es">UEFA Nations League Match Night Highlights</title>
+    <desc lang="es">Todos los mejores momentos, los mejores tiros, grandes goles y un completo resumen de la UEFA Nations League.</desc>
+    <category lang="es">UEFA Nations League Match Night Highlights</category>
+  </programme>
+  <programme start="20261118153800 -0500" stop="20261118164000 -0500" channel="espn-chi.tv">
+    <title lang="es">UEFA Nations League Match Day Highlights</title>
+    <desc lang="es">Un repaso de los mejores momentos, los tiros más impresionantes y los grandes goles de la UEFA Nations League.</desc>
+    <category lang="es">UEFA Nations League Match Day Highlights</category>
+  </programme>
+  <programme start="20261118164000 -0500" stop="20261118190000 -0500" channel="espn-chi.tv">
+    <title lang="es">Chelsea (Ing) vs. Paris Saint-Germain (Fra)</title>
+    <desc lang="es">Vive los partidos de la 26º edición de la UEFA Champions League Femenina, torneo que reúne a los mejores equipos del continente europeo.</desc>
+    <category lang="es">Fecha 5, Stamford Bridge</category>
+  </programme>
+  <programme start="20261118190000 -0500" stop="20261118200000 -0500" channel="espn-chi.tv">
+    <title lang="es">UEFA Nations League Match Night Highlights</title>
+    <desc lang="es">Todos los mejores momentos, los mejores tiros, grandes goles y un completo resumen de la UEFA Nations League.</desc>
+    <category lang="es">UEFA Nations League Match Night Highlights</category>
+  </programme>
+  <programme start="20261118200000 -0500" stop="20261118210000 -0500" channel="espn-chi.tv">
+    <title lang="es">UEFA Nations League Match Day Highlights</title>
+    <desc lang="es">Un repaso de los mejores momentos, los tiros más impresionantes y los grandes goles de la UEFA Nations League.</desc>
+    <category lang="es">UEFA Nations League Match Day Highlights</category>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261118230000 -0500" channel="espn-chi.tv">
+    <title lang="es">Fase de grupos</title>
+    <desc lang="es">Disfruta las emociones de la segunda edición de esta competencia de fútbol 7 que convoca a 40 equipos de distintos barrios y grandes figuras, que compiten en un formato profesional.</desc>
+    <category lang="es">Copa Potrero</category>
+  </programme>
+  <programme start="20261118230000 -0500" stop="20261119010000 -0500" channel="espn-chi.tv">
+    <title lang="es">Real Madrid (Esp) vs. Inter (Ita)</title>
+    <desc lang="es">Vive los partidos de la 26º edición de la UEFA Champions League Femenina, torneo que reúne a los mejores equipos del continente europeo.</desc>
+    <category lang="es">Fecha 5, Estadio Alfredo di Stéfano</category>
+  </programme>
+  <programme start="20261119010000 -0500" stop="20261119020000 -0500" channel="espn-chi.tv">
+    <title lang="es">Carlos Alcaraz (Esp) vs. Daniil Medvedev (Rus)</title>
+    <desc lang="es">Disfruta lo más destacado de esta competencia perteneciente al ATP Tour que se disputa en el Inalpi Arena de Turín, Italia. Participan los 8 mejores jugadores individuales y las 8 mejores parejas de dobles del año.</desc>
+    <category lang="es">Compacto - Nitto ATP Finals</category>
+  </programme>
+  <programme start="20261119020000 -0500" stop="20261119030000 -0500" channel="espn-chi.tv">
+    <title lang="es">Flavio Cobolli (ITA) vs. Frances Tiafoe (USA)</title>
+    <desc lang="es">Disfruta lo más destacado de esta competencia perteneciente al ATP Tour que se disputa en el Inalpi Arena de Turín, Italia. Participan los 8 mejores jugadores individuales y las 8 mejores parejas de dobles del año.</desc>
+    <category lang="es">Compacto - Nitto ATP Finals</category>
+  </programme>
+  <programme start="20261119030000 -0500" stop="20261119033000 -0500" channel="espn-chi.tv">
+    <title lang="es">ATP Tour Uncovered</title>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.</desc>
+    <category lang="es">ATP Tour Uncovered</category>
+  </programme>
+  <programme start="20261119033000 -0500" stop="20261119040000 -0500" channel="espn-chi.tv">
+    <title lang="es">Aguas arriba</title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
+    <category lang="es">Aguas arriba</category>
+  </programme>
+  <programme start="20261119040000 -0500" stop="20261119050000 -0500" channel="espn-chi.tv">
+    <title lang="es">Dinamarca vs. Noruega</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 5º edición de la Liga de Naciones de la UEFA. La competición será parte de la clasificación de la UEFA para la Eurocopa 2028.</desc>
+    <category lang="es">Fecha 6 - Liga A</category>
+  </programme>
+  <programme start="20261119050000 -0500" stop="20261119060000 -0500" channel="espn-chi.tv">
+    <title lang="es">Gales vs. Portugal</title>
+    <desc lang="es">Revive los mejores momentos de los partidos de la 5º edición de la Liga de Naciones de la UEFA. La competición será parte de la clasificación de la UEFA para la Eurocopa 2028.</desc>
+    <category lang="es">Fecha 6 - Liga A</category>
   </programme>
   <programme start="20261119060000 -0500" stop="20261119083000 -0500" channel="espn-chi.tv">
     <title lang="es">Milwaukee Bucks vs. Miami Heat</title>
